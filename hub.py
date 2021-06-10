@@ -1,1 +1,6 @@
-print('Hello World')
+
+hungry=input('Are you hungry ? :')
+if hungry == 'yes':
+	print('eat samosa')
+else:
+	print('do your work')	
