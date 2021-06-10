@@ -7,5 +7,6 @@ else:
 	if thirsty == 'yes':
 		print('drink water')
 		print('pepsi')	
+		print('maaza')
 	else:
 		print('do work')	
