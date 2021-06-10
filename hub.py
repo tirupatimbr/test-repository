@@ -1,13 +1,13 @@
 
 hungry=input('Are you hungry ? :')
 if hungry == 'yes':
-	print('eat samosa')
+	print('eat puri')
 
 else:
 	thirsty = input('Are You thirsty? : ')
 	if thirsty == 'yes':
-		print('drink water')
-		print('pepsi')	
+		print('drink lemon')
+		print('thumsup')	
 
 	else:
 		print('do work')	
