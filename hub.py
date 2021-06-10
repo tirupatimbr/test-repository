@@ -9,4 +9,4 @@ else:
 		print('drink water')
 		print('pepsi')	
 	else:
-		print('do work')	
+		print('do work tttt')	
